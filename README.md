@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r3kste
 - 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Elden Ring
-- 💞️ I’m looking to collaborate on Cyberpunk 2077
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... You don't
 
 <!---
