@@ -1,6 +1,6 @@
 -  Hi, I’m @r3kste
 -  I’m interested in everything
--  I’m currently learning Javascript
+-  I’m currently learning Rust 🦀
 -  I’m looking to collaborate on nothing
 -  How to reach me ... You don't
 
